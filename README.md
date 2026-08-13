@@ -1,6 +1,6 @@
 # Sistema de automatización de registro de mano de obra
 
-Proyecto implementado en empresa Inserim Aire
+Proyecto implementado en la empresa Inserim Aire
 
 ## Descripción
 Sistema desarrollado para automatizar el registro y control de horas trabajadas de personal operativo, eliminando procesos manuales y mejorando la eficiencia en la gestión de información.
